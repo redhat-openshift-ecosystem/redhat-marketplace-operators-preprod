@@ -51,3 +51,5 @@ Currently, the certification process supports the following options:
 merged when passed all required checks. (optional, default: `True`)
 
 [ci-pipeline]:   https://github.com/redhat-openshift-ecosystem/operator-pipelines
+
+### test diff
